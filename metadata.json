@@ -1,0 +1,8 @@
+{
+  "name": "Manual Trim Validation",
+  "description": "Bitwise address trim validation engine with multi-stage hex/binary mask substitution and chained register pipeline analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
